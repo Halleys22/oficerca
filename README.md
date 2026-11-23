@@ -4,7 +4,7 @@ Prototipo web local para gestionar servicios de fontanería doméstica no urgent
 
 ## Contexto y participación
 
-Proyecto personal de aprendizaje y exploración de producto. Hernán participó en la definición de la propuesta de valor y la priorización de funcionalidades para clientes y profesionales. La implementación y parte de la documentación se realizaron con asistencia sustancial de IA.
+Proyecto personal de aprendizaje y exploración de producto. Hernán participó en la definición de la propuesta de valor y la priorización de funcionalidades para clientes y profesionales.
 
 La alpha usa perfiles ficticios identificados como DEMO. No se presentan usuarios reales, ingresos ni validación comercial. No se ha desplegado esta aplicación completa como servicio público; una landing o maqueta pública, si existe, es una versión distinta.
 
